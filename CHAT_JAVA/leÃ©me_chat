@@ -1,0 +1,10 @@
+wena cabros.
+
+para usar el chat sólo deben abrir ambos proyectos en el netbeans y ejecutar ambos ("Run" en cada uno). Se abrirá una ventana del servidor y otra de cliente. 
+- En la ventana del servidor, dan clic en "Iniciar Servidor"
+- En la ventana del cliente, el cuadrito escriben localhost y pinchan en conectar.
+- Ahora se puede chatear por ambos lados.
+
+* Está configurado para que guarde el mensaje de ambos en cada ventana.
+
+*****CÓDIGO FACILITO NOS AYUDÓ DE NUEVO++++++++++++
